@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MagnaCart3r
-- 👀 I’m interested in python,java,html,css
-- 🌱 I’m currently learning python on Microsoft 
+- 👀commitied relationship with  python,java,html,css, react , typescript and everything in between
+- 🌱 I’m always learning a little something about everything 
 - 💞️ I’m looking to collaborate on fun  and challenging projects
-- 📫 you can reach me my twitter handle @magnacart3r or email: yungmagnificentcarter@gmail.com
+- 📫reach me my twitter handle @magnacart3r or email: yungmagnificentcarter@gmail.com
 - 😄 Pronouns: I am who I am...
-- ⚡ Fun fact: ... I evolved since then! 🖱️😄
+- ⚡ Fun fact: ..09. I evolved since then! 🖱️😄
 
 <!---
 MagnaCart3r/MagnaCart3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
